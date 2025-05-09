@@ -15,3 +15,10 @@ This Power BI dashboard analyzes Urban Basket Supermarket's sales data to:
 -	Product Performance: Which product lines generate the highest revenue and volume?
 -	Customer Behavior: What's the average transaction size and preferred payment methods?
 -	Geographic Performance: Which cities contribute most to overall sales?
+
+## Data Preparation in Power Query & DAX
+-	Performed data cleaning in power query handled missing values, standardized formats.
+-	Imported raw sales data from multiple sources into Power BI.
+-	Generate new measures and columns to be used for generate KPIs.
+-	Established proper data types for all fields (numeric, categorical, datetime).
+-	Built a comprehensive data model with proper table relationships.
