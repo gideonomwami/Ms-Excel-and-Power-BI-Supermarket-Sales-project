@@ -41,6 +41,7 @@ This Power BI dashboard analyzes Urban Basket Supermarket's sales data to:
 -	Offer MPESA-exclusive discounts to encourage mobile payments.
 -	Schedule more cashiers during peak hours (7 PM) to reduce wait times.
 -	Analyze why Kisumu underperforms (lowest sales) and adjust strategies.
+
 By leveraging these insights, Urban Basket Supermarket can optimize sales, improve customer experience, and maximize profitability in a competitive retail market.
 
 
