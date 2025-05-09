@@ -24,3 +24,5 @@ This Power BI dashboard analyzes Urban Basket Supermarket's sales data to:
 -	Built a comprehensive data model with proper table relationships.
 
 ## Power BI Dashboard 
+- <a href="https://github.com/gideonomwami/Ms-Excel-and-Power-BI-Supermarket-Sales-project/blob/main/Dashboard%201.png">Sales Overview</a>
+- <a href="https://github.com/gideonomwami/Ms-Excel-and-Power-BI-Supermarket-Sales-project/blob/main/Dashboard%202.png">Customer Behaviour</a>
