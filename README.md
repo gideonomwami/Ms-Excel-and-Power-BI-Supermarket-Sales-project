@@ -28,15 +28,12 @@ This Power BI dashboard analyzes Urban Basket Supermarket's sales data to:
 - <a href="https://github.com/gideonomwami/Ms-Excel-and-Power-BI-Supermarket-Sales-project/blob/main/Dashboard%202.png">Customer Behaviour</a>
 
 ## Key Findings from the Dashboard
-Sales Performance
 -	Total Sales: Ksh 322.97K across all locations
 -	Top City: Mombasa leads with 34.24% (Ksh 110.57K) of total sales
 -	Gender Split: Nearly balanced with females contributing 48.02% (Ksh 155.08K)
-Product Analysis
 -	Best Performing Category: Food and beverages (Ksh 56,144.84)
 -	Highest Volume: Electronic accessories (971 units sold)
 -	Premium Category: Fashion accessories with highest avg. unit price (Ksh 55.67)
-Customer Behavior
 -	Peak Shopping Time: 19:00 (5.6K sales) across most days
 -	Weekend Performance: Fridays and Saturdays show highest sales volumes
 -	Preferred Payment: MPESA dominates across most product categories
