@@ -44,4 +44,9 @@ This Power BI dashboard analyzes Urban Basket Supermarket's sales data to:
 
 By leveraging these insights, Urban Basket Supermarket can optimize sales, improve customer experience, and maximize profitability in a competitive retail market.
 
+## Dashboards 
+![Dashboard 1](https://github.com/user-attachments/assets/c288cf84-a0b5-440f-81f1-2c9d587b2070)
+![Dashboard 2](https://github.com/user-attachments/assets/ec262063-deee-46fe-866f-455d6d8c008a)
+
+
 
